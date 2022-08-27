@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.FifthSpringBoot.FifthSpringBootProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.595 s - in com.FifthSpringBoot.FifthSpringBootProjectApplicationTests
